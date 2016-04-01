@@ -1,3 +1,3 @@
 var $ = require('jquery');
-require('style!css!./bear.css');
+require('./bear.css');
 module.exports = $('<div/>').html('growl!');
